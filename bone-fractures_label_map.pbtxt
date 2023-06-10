@@ -1,0 +1,20 @@
+item {
+    name: "angle",
+    id: 1,
+    display_name: "angle"
+}
+item {
+    name: "fracture",
+    id: 2,
+    display_name: "fracture"
+}
+item {
+    name: "line",
+    id: 3,
+    display_name: "line"
+}
+item {
+    name: "messed_up_angle",
+    id: 4,
+    display_name: "messed_up_angle"
+}
